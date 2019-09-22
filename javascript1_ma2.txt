@@ -1,6 +1,7 @@
 //MODULE ASSIGNMENT 2 - LEVEL 1
 
 1. What is a function literal?
+
 It is an expression that is defining an unamed function. It's a function expression, and has four parts:
 First: Reserved word function
 Second: The name of the function (Optional)
@@ -9,12 +10,14 @@ Fourth: The statements wich are the body of the function. They're wrapped inside
 
 
 2. What is the constructor?
+
 The constructor is a function that is used with the "new" operator to create specialized type of a object. 
 It either initalizes a value or sets the default values. It also makes it less likely to make a mistake, than if we are creating many similar objects.
 It is used to construct prototype chains. 
 
 
 3. What does the return statement do?
+
 It stops the execution of a function and returns a value. Code after a return statement inside a function will be unreachable if it comes after a return statement.
 
 
