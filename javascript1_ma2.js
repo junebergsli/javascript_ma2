@@ -34,7 +34,7 @@ var strawberry = "Strawberries are a popular part of spring and summer diets thr
 var banana = strawberry.replace(/strawberry/g, "banana").replace(/Strawberry/g, "Banana").replace(/strawberries/g, "bananas").replace(/Strawberries/g, "Bananas");
 console.log(banana);
 };
-console.log(replaceWord());
+replaceWord();
 
 
 //5. Create an array and a button. The array should contain 4 football clubs names. When the button is clicked, remove all elements out of the array that we just created. There after add in 4 names of cars inside that array. Log it to the console.
